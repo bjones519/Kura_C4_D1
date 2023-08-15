@@ -13,5 +13,5 @@ package"
 ### Elastic Beanstalk
 
 1. Zip all application files to be used to deploy on Elastic Beanstalk
-2. Created the needed IAM roles for the AWS Services so have the appropriate permissions to be used by Elastic Beanstalk
-3. Deployed thee URL shortner on Elastic Beanstalk and was able to use the domain to open the application
+2. Created the needed IAM roles for the AWS Services so they have the appropriate permissions to be used by Elastic Beanstalk
+3. Deployed the URL shortner on Elastic Beanstalk and was able to use the domain created to open the application
